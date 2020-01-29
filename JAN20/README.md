@@ -1,1 +1,2 @@
-- 28_JAN_2020 [Questions's Link](https://www.codechef.com/problems/MUFFINS3)
+- 28_JAN_2020 [Question's Link](https://www.codechef.com/problems/MUFFINS3)
+- 29_JAN_2020 [Question's Link](https://www.hackerrank.com/challenges/append-and-delete/problem)
