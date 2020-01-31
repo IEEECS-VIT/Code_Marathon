@@ -1,3 +1,4 @@
 - 28_JAN_2020 [Question's Link](https://www.codechef.com/problems/MUFFINS3)
 - 29_JAN_2020 [Question's Link](https://www.hackerrank.com/challenges/append-and-delete/problem)
 - 30_JAN_2020[Question's Link](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
+- 31_JAN_2020 [Question's Link](https://www.codechef.com/problems/SAKTAN)
