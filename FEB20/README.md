@@ -1,2 +1,2 @@
 - 01_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
--02_FEB_2020[Question's Link](https://www.codechef.com/problems/A1)
+- 02_FEB_2020 [Question's Link](https://www.codechef.com/problems/A1)
