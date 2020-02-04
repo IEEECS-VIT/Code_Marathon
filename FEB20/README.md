@@ -2,3 +2,4 @@
 - 02_FEB_2020 [Question's Link](https://www.codechef.com/problems/A1)
 - 03_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)\
 - 04_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/palindrome-index/problem)
+-05_FEB_2020 [Question's Link](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
