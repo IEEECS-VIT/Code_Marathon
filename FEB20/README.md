@@ -1,5 +1,6 @@
 - 01_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
 - 02_FEB_2020 [Question's Link](https://www.codechef.com/problems/A1)
-- 03_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)\
+- 03_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)
 - 04_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/palindrome-index/problem)
 - 05_FEB_2020 [Question's Link](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- 06_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximum-goodness/)
