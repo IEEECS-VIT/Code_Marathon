@@ -5,4 +5,5 @@
 - 05_FEB_2020 [Question's Link](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
 - 06_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximum-goodness/)
 - 07_FEB_2020 [Question's Link](https://www.codechef.com/problems/PALIN)
-- 08_FEB_2020[Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/monk-and-inversions-arrays-strings/)
+- 08_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/monk-and-inversions-arrays-strings/)
+- 09_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-amazing-race-1/)
