@@ -1,4 +1,4 @@
-#Author--Ritik Gupta
+#Author- Ritik Gupta
 t=int(input())
 for i in range(t):
     l=[]

@@ -1,4 +1,4 @@
-#Author--Ritik Gupta
+#Author- Ritik Gupta
 for i in range(t):
     n=int(input())
     f=[]

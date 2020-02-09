@@ -1,4 +1,4 @@
-#Author--Ritik Gupta
+#Author- Ritik Gupta
 n=int(input())
 a=[int(i) for i in input().split()]
 b=0
