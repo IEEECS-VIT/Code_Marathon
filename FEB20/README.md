@@ -7,3 +7,4 @@
 - 07_FEB_2020 [Question's Link](https://www.codechef.com/problems/PALIN)
 - 08_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/monk-and-inversions-arrays-strings/)
 - 09_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-amazing-race-1/)
+- 10_FEB_2020 [Question's Link](https://www.spoj.com/problems/ARRTWIST/)
