@@ -11,3 +11,4 @@
 - 11_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/dynamic-array/problem)
 - 12_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/sumit-and-equal-array/)
 - 13_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/litte-jhool-and-world-tour-1/)
+- 14_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
