@@ -13,3 +13,4 @@
 - 13_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/litte-jhool-and-world-tour-1/)
 - 14_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
 - 15_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/honey-bees/)
+- 16_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/binary-blocks-4b173d4a/)
