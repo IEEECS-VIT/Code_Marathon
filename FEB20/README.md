@@ -16,3 +16,4 @@
 - 16_FEB_2020 [Question's Link](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/binary-blocks-4b173d4a/)
 - 17_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/pairs/problem)
 - 18_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/big-sorting/problem)
+- 19_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
