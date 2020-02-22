@@ -18,3 +18,5 @@
 - 18_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/big-sorting/problem)
 - 19_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
 - 20_FEB_2020 [Question's Link](https://www.codechef.com/problems/PCJ18E)
+- 21_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/short-palindrome/problem)
+- 22_FEB_2020 [Question's Link](https://www.hackerrank.com/challenges/anagram/problem)
