@@ -23,3 +23,4 @@
 - 23_FEB_2020 [Question's Link](https://www.hackerrank.com/contests/pawansheeran/challenges/ex2-ed-sheeran-at-radisson-blu-in-december/problem)
 - 24_FEB_2020 [Question's Link](https://www.codechef.com/problems/CASH)
 - 25_FEB_2020 [Question's Link](https://www.codechef.com/problems/MATHL)
+- 26_FEB_2020 [Question's Link](https://www.codechef.com/problems/OLDFAR)
