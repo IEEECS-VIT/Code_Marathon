@@ -25,3 +25,5 @@
 - 25_FEB_2020 [Question's Link](https://www.codechef.com/problems/MATHL)
 - 26_FEB_2020 [Question's Link](https://www.codechef.com/problems/OLDFAR)
 - 27_FEB_2020 [Question's Link](https://www.codechef.com/problems/CARR)
+- 28_FEB_2020 [Question's Link](https://www.codechef.com/problems/SORTALGO)
+- 29_FEB_2020 [Question's Link](https://www.codechef.com/problems/FIBQ)
