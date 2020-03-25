@@ -8,3 +8,4 @@
 - 08_MAR_2020 [Question's Link](https://www.codechef.com/problems/SIGNWAVE)
 - 09_MAR_2020 [Question's Link](https://www.codechef.com/ENJA2020/problems/ECJAN20C)
 - 10_MAR_2020 [Question's Link](https://www.codechef.com/LTIME70B/problems/SEVENSEG)
+- 25_MAR_2020 [Question's Link](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/holiday-season-ab957deb/)
