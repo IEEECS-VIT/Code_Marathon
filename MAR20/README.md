@@ -10,3 +10,5 @@
 - 10_MAR_2020 [Question's Link](https://www.codechef.com/LTIME70B/problems/SEVENSEG)
 - 25_MAR_2020 [Question's Link](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/holiday-season-ab957deb/)
 - 26_MAR_2020 [Question's Link](https://www.codechef.com/problems/DEFECTS)
+- 27_MAR_2020 [Question's Link](https://codeforces.com/contest/1328/problem/B)
+- 28_MAR_2020 [Question's Link](https://codeforces.com/contest/1328/problem/C)
